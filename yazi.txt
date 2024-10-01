@@ -1,1 +1,2 @@
 Bu bir yazı dosyasıdır.
+Egitim amacli olusturulmustur.
