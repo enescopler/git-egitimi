@@ -9,6 +9,7 @@
 
 **bold yazı tipi**
 ---
+Link vermek için örnek:
 [google](https://www.google.com.tr)
 ---
 >alintidir.
